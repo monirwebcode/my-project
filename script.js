@@ -3,7 +3,7 @@
 
 
 function checkAge(){
-  age=parseInt(document.getElementById("input_age").value);
+  let age=parseInt(document.getElementById("input_age").value);
 
   
 
